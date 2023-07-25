@@ -1,3 +1,5 @@
 adding text in the feature1 control
 adding text in the feature1 not in master
 adding new text to test the remote testbranch in feature1
+----------------------------------
+adding the new line in the git branch testBranch
